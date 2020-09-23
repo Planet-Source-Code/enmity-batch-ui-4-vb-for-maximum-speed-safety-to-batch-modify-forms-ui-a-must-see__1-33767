@@ -1,0 +1,4 @@
+cBatchUI = 110, 110, 450, 430, C
+cIniInfo = 44, 44, 570, 222, C
+cFileDialogs = 66, 66, 406, 386, C
+cFileFunctions = 88, 88, 428, 408, C
